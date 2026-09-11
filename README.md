@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# GJN Dental Shine
+
+abra esse projeto, e crie um novo projeto em cima para a clinica gjn odontologia, segue as fotos e informações, crie um designer inovador e com botão de whatsapp para agendar uma avaliação, adicione também foto e videos do instagram https://www.instagram.com/gjn.odontologia/
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/5794ecda-036f-4d04-83f6-52539c87f885).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
